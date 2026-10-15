@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026.10.12](https://github.com/jdx/mise/releases/tag/v2026.10.12) - 2026-10-15
+
+### 🚀 Features
+
+- **(pypi)** select Python runtime per tool by @jdx in [#14479](https://github.com/jdx/mise/pull/14479)
+
+### 📚 Documentation
+
+- **(activate)** explain why mise activate keeps shims on PATH by @jdx in [#14493](https://github.com/jdx/mise/pull/14493)
+
 ## [2026.10.11](https://github.com/jdx/mise/releases/tag/v2026.10.11) - 2026-10-15
 
 ### 🚀 Features
